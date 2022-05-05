@@ -1,3 +1,22 @@
+# About This Project
+In this project I have created a movie app which which consists of different a topics.We can filter by clicking on them.
+  
+![Screenshot from 2022-05-06 02-08-09](https://user-images.githubusercontent.com/101265586/167022338-b71cbd82-84a7-40ff-b3e0-42f58b34ca51.png)
+  
+ ![Screenshot from 2022-05-06 02-08-20](https://user-images.githubusercontent.com/101265586/167022445-685c4a7c-b958-4178-8dc5-abd77b6a868f.png)
+
+  
+![Screenshot from 2022-05-06 02-09-00](https://user-images.githubusercontent.com/101265586/167022512-5172787f-b03c-4f27-86e0-3fe9dedf95f8.png)
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
